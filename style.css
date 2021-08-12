@@ -1,0 +1,27 @@
+body {
+	font-family: 'Russo One', sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+	background: linear-gradient(to right, rgb(53, 28, 51), rgb(0, 255, 51));
+}
+
+h1 {
+    font: 3em 'Russo One', sans-serif;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+
+}
+
+h3 {
+	font: 1em 'Russo One', sans-serif;
+    color: white;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
